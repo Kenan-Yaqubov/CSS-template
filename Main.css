@@ -1,0 +1,140 @@
+ul {
+    font-family: Raleway;
+    margin-top: 0;
+    font-size: 15px;
+    margin-left: 940px;
+    display: flex;
+}
+
+.li_nav {
+    padding: 20px 16px;
+}
+
+.li_nav:hover {
+    background-color: #9c9d9e;
+}
+
+.logo:hover {
+    background-color: #9c9d9e;
+}
+
+.a_nav {
+    color: black;
+    text-decoration: none;
+}
+
+.logo {
+    letter-spacing: 4px;
+    padding: 20px 16px;
+    margin-left: -980px;
+}
+
+div.header {
+    margin-top: -16px;
+    height: 42.83pc;
+    width: 100vw;
+    background-image: url('https://www.wallpaperuse.com/wallp/17-171769_m.jpg');
+    background-size: cover;
+}
+
+div.header>span,
+p {
+    color: white;
+}
+
+div.header>span {
+    font-size: 64px;
+    margin-left: 50px;
+    position: relative;
+    top: 200px;
+}
+
+div.header>p {
+    font-size: 18px;
+    margin-left: 50px;
+    position: relative;
+    top: -16px;
+}
+
+div.header>a {
+    color: black;
+    text-decoration: none;
+    background-color: #ffffff8a;
+    padding: 16px 24px;
+    font-size: 18px;
+    margin-left: 50px;
+    position: relative;
+    top: 12px;
+}
+
+div.header>a:hover{
+    background-color: white;
+}
+
+div.header>span{
+    margin-top: 275px;
+}
+
+
+div.header>a{
+    margin-top: 275px;
+}
+
+div.header>p{
+    margin-top: 275px;
+}
+.div2{
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+
+.div2>h3{
+    position: relative;
+    top: 30px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.div2>p{
+    color: black;
+    font-size: 18px;
+    top: 30px;
+    position: relative;
+}
+
+.div3{
+    position: relative;
+    top: 30px;
+}
+
+.pmain{
+    top: 30px;
+    position: relative;
+    font-size: 18px;
+    color: black;
+}
+
+.p{
+    top: 30px;
+    position: relative;
+    font-size: 15px;
+    color: black;
+    margin: 30px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.div3>img{
+    top: 30px;
+    position: relative;
+    width: 64px;
+    height: 64px;
+}
+
+.div_main{
+    text-align: center;
+    display: flex;
+    padding: 128px 16px;
+
+}
